@@ -1,0 +1,3 @@
+[submodule "MovieFlicks"]
+	path = MovieFlicks
+	url = https://github.com/jmankhan/MovieFlicks.git
